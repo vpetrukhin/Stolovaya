@@ -1,0 +1,13 @@
+.menu__item {
+  margin-right: 2em;
+  display: flex;
+  align-items: center;
+}
+
+.menu_type_about>.menu__item:last-of-type {
+  margin-right: 0;
+}
+
+.menu_type_info>.menu__item:last-of-type {
+  margin-right: 0;
+}
