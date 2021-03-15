@@ -1,0 +1,7 @@
+.search__btn {
+  display: block;
+  width: 49px;
+  border: none;
+  padding: 7px 14px 6px;
+  background: #ffaf2d url(../../../image/lupa.svg) center no-repeat;
+}

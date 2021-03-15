@@ -1,0 +1,7 @@
+.card__text {
+  margin: 0;
+  font-family: PTSans Regular, sans-serif;
+  font-size: 14px;
+  line-height: 16px;
+  color: rgba(119, 119, 119, 1);
+}

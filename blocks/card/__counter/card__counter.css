@@ -1,0 +1,9 @@
+.card__counter {
+  position: absolute;
+  top: -11px;
+  left: 10px;
+  font-family: PTSans Regular, sans-serif;
+  font-size: 14px;
+  line-height: 16px;
+  color: rgba(255, 140, 0, 1);
+}
