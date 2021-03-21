@@ -1,0 +1,4 @@
+.navigation__brands {
+  grid-area: brands;
+  background-color: #fff;
+}

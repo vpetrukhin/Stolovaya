@@ -13,6 +13,7 @@
 @import url(../blocks/header/__search/header__search.css);
 @import url(../blocks/header/__provider/header__provider.css);
 @import url(../blocks/header/__card/header__card.css);
+@import url(../blocks/header/__views/header__views.css);
 
 @import url(../blocks/menu/menu.css);
 @import url(../blocks/menu/_type/_about/menu_type_about.css);
@@ -40,7 +41,22 @@
 @import url(../blocks/card/__text/card__text.css);
 @import url(../blocks/card/__sum/card__sum.css);
 
+@import url(../blocks/views/views.css);
 
 @import url(../blocks/main/main.css);
+@import url(../blocks/main/__container/main__cantainer.css);
+@import url(../blocks/main/__navigation/main__navigation.css);
+
+@import url(../blocks/navigation/navigation.css);
+@import url(../blocks/navigation/__nav/navigation__nav.css);
+@import url(../blocks/navigation/__slider/navigation__slider.css);
+@import url(../blocks/navigation/__promo/navigation__promo.css);
+@import url(../blocks/navigation/__brands/navigation__brands.css);
+
+@import url(../blocks/nav/nav.css);
+@import url(../blocks/nav/__title/nav__title.css);
+@import url(../blocks/nav/__list/nav__list.css);
+@import url(../blocks/nav/__item/nav__item.css);
+@import url(../blocks/nav/__link/nav__link.css);
 
 @import url(../blocks/footer/footer.css);

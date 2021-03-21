@@ -1,0 +1,9 @@
+.navigation {
+  display: grid;
+  grid-template-columns: 300px 900px 300px;
+  grid-template-rows: 475px 100px ;
+  grid-template-areas: 
+  "nav slider promo"
+  "brands brands brands";
+  gap: 21px;
+}
