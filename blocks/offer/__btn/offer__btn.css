@@ -1,0 +1,12 @@
+.offer__btn {
+  display: inline-block;
+  width: 130px;
+  padding: 10px 0;
+  background-color: #ffaf2d;
+  border-radius: 20px;
+  text-align: center;
+  font-family: PTSans Regular, sans-serif;
+  font-size: 18px;
+  color: #fff;
+  text-decoration: none;
+}
