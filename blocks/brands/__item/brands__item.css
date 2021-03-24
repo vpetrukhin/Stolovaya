@@ -1,0 +1,11 @@
+.brands__item {
+  margin: 0;
+  width: 255px;
+  height: 71px;
+  display: flex;
+  border-right: 1px solid #efeeee;
+}
+
+.brands__item:last-of-type {
+  border-right: none;
+}

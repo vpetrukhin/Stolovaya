@@ -42,6 +42,11 @@
 @import url(../blocks/card/__sum/card__sum.css);
 
 @import url(../blocks/views/views.css);
+@import url(../blocks/views/__list/views__list.css);
+@import url(../blocks/views/__item/views__item.css);
+@import url(../blocks/views/__link/views__link.css);
+@import url(../blocks/views/__icon/views__icon.css);
+@import url(../blocks/views/__text/views__text.css);
 
 @import url(../blocks/main/main.css);
 @import url(../blocks/main/__container/main__cantainer.css);
@@ -76,5 +81,11 @@
 @import url(../blocks/promo/__uptitle/promo__uptitle.css);
 @import url(../blocks/promo/__title/promo__title.css);
 @import url(../blocks/promo/__link/promo__link.css);
+
+@import url(../blocks/brands/brands.css);
+@import url(../blocks/brands/__list/brands__list.css);
+@import url(../blocks/brands/__item/brands__item.css);
+@import url(../blocks/brands/__link/brands__link.css);
+@import url(../blocks/brands/__img/brands__img.css);
 
 @import url(../blocks/footer/footer.css);

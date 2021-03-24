@@ -3,36 +3,3 @@
   min-height: 100px;
   padding-top: 10px;
 }
-
-.views__list {
-  margin: 0;
-  padding: 0;
-  list-style-type: none;
-  display: flex;
-  justify-content: space-between;
-  align-items: flex-start;
-}
-
-.views-item {
-
-}
-
-.views__link {
-  line-height: 19.04631233215332px;
-  font-family: PTSans Regular;
-  font-size: 16;
-  color: rgb(52, 52, 52);
-  text-decoration: none;
-}
-
-.views__icon {
-  display: block;
-  margin: 0 auto 7px;
-  width: 56px;
-  height: 56px;
-}
-
-.views__text {
-  margin: 0;
-  text-align: center;
-}

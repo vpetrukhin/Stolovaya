@@ -1,0 +1,8 @@
+.brands__link {
+  text-decoration: none;
+  display: inline-block;
+  margin: auto;
+  font-family: PTSans Regular, sans-serif;
+  font-size: 18px;
+  color: #000000;
+}
