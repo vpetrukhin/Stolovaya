@@ -70,4 +70,11 @@
 @import url(../blocks/offer/__subtitle/offer__subtitle.css);
 @import url(../blocks/offer/__btn/offer__btn.css);
 
+@import url(../blocks/promo/promo.css);
+@import url(../blocks/promo/__wrapper/promo__wrapper.css);
+@import url(../blocks/promo/__icon/promo__icon.css);
+@import url(../blocks/promo/__uptitle/promo__uptitle.css);
+@import url(../blocks/promo/__title/promo__title.css);
+@import url(../blocks/promo/__link/promo__link.css);
+
 @import url(../blocks/footer/footer.css);

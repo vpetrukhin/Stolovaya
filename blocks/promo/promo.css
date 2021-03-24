@@ -1,0 +1,6 @@
+.promo {
+  background-color: #fff;
+  display: flex;
+  align-items: flex-end;
+  border: 2px solid #ffaf2d;
+}

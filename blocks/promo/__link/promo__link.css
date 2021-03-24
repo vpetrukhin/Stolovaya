@@ -1,0 +1,13 @@
+.promo__link {
+  font-family: PTSans Regular, sans-serif;
+  font-size: 18px;
+  font-weight: 300;
+  color: #ffaf2d;
+  text-decoration: none;
+}
+
+.promo__link::after {
+  content: '>';
+  display: inline-block;
+  margin-left: 5px;
+}
