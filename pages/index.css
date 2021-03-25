@@ -51,6 +51,7 @@
 @import url(../blocks/main/main.css);
 @import url(../blocks/main/__container/main__cantainer.css);
 @import url(../blocks/main/__navigation/main__navigation.css);
+@import url(../blocks/main/__news/main__news.css);
 
 @import url(../blocks/navigation/navigation.css);
 @import url(../blocks/navigation/__nav/navigation__nav.css);
@@ -87,5 +88,23 @@
 @import url(../blocks/brands/__item/brands__item.css);
 @import url(../blocks/brands/__link/brands__link.css);
 @import url(../blocks/brands/__img/brands__img.css);
+
+@import url(../blocks/news/news.css);
+@import url(../blocks/news/__title/news__title.css);
+@import url(../blocks/news/__conteiner/news__container.css);
+@import url(../blocks/news/__novelty/news__novetly.css);
+@import url(../blocks/news/__btn/news__btn.css);
+
+@import url(../blocks/novetly/novetly.css);
+@import url(../blocks/novetly/__img/novetly__img.css);
+@import url(../blocks/novetly/__description/novetly__description.css);
+@import url(../blocks/novetly/__caption/novetly__caption.css);
+@import url(../blocks/novetly/__producer/novetly__producer.css);
+@import url(../blocks/novetly/__date/novetly__date.css);
+@import url(../blocks/novetly/__title/novetly__title.css);
+@import url(../blocks/novetly/__link/novetly__link.css);
+@import url(../blocks/novetly/__text/novetly__text.css);
+@import url(../blocks/novetly/_type/_big/novetly_type_big.css);
+@import url(../blocks/novetly/_type/_small/novetly_type_small.css);
 
 @import url(../blocks/footer/footer.css);

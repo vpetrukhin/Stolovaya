@@ -1,0 +1,11 @@
+.novetly_type_big {
+  max-width: 490px;
+  grid-row-start: 1;
+  grid-row-end: 4;
+  flex-direction: column;
+}
+
+.novetly_type_big .novetly__img {
+  width: 495px;
+  height: 330px;
+}

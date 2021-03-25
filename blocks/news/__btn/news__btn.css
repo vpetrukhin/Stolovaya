@@ -1,0 +1,13 @@
+.news__btn {
+  display: inline-block;
+  width: 167px;
+  padding: 10px 0;
+  border: 2px solid #ffaf2d;
+  border-radius: 20px;
+  font-family: PTSans Regular, sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  color: #ffaf2d;
+  text-decoration: none;
+  text-align: center;
+}

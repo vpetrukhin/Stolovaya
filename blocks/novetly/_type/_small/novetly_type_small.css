@@ -1,0 +1,15 @@
+.novetly_type_small {
+  max-width: 850px;
+  flex-direction: row;
+}
+
+.novetly_type_small .novetly__img {
+  width: 190px;
+  height: 167px;
+  margin-bottom: 0;
+  margin-right: 20px;
+}
+
+.novetly_type_small .novetly__description {
+  max-width: 609px;
+}

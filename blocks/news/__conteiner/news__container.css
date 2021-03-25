@@ -1,0 +1,8 @@
+.news__container {
+  margin-bottom: 55px;
+  display: grid;
+  grid-template-columns: 490px 852px;
+  grid-template-rows: repeat(3, 167px);
+  column-gap: 104px;
+  row-gap: 42px;
+}
