@@ -1,0 +1,14 @@
+.divide__link {
+  display: block;
+  font-family: PTSans Regular, sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  color: #777777;
+  text-align: center;
+  text-decoration: none;
+}
+
+.divide__link::after {
+  content: '>';
+  margin-left: 5px;
+}

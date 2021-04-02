@@ -52,6 +52,7 @@
 @import url(../blocks/main/__container/main__cantainer.css);
 @import url(../blocks/main/__navigation/main__navigation.css);
 @import url(../blocks/main/__news/main__news.css);
+@import url(../blocks/main/__recommendation/main__recommendation.css);
 
 @import url(../blocks/navigation/navigation.css);
 @import url(../blocks/navigation/__nav/navigation__nav.css);
@@ -106,5 +107,21 @@
 @import url(../blocks/novetly/__text/novetly__text.css);
 @import url(../blocks/novetly/_type/_big/novetly_type_big.css);
 @import url(../blocks/novetly/_type/_small/novetly_type_small.css);
+
+@import url(../blocks/recomendation/recommendation.css);
+@import url(../blocks/recomendation/__title/recommendation__title.css);
+@import url(../blocks/recomendation/__subtitle/recommendation__subtitle.css);
+@import url(../blocks/recomendation/__wrapper/recommendation__wrapper.css);
+@import url(../blocks/recomendation/__divide/recommendation__divide.css);
+
+@import url(../blocks/divide/divide.css);
+@import url(../blocks/divide/__producer/divide__producer.css);
+@import url(../blocks/divide/__title/divide__title.css);
+@import url(../blocks/divide/__text/divide__text.css);
+@import url(../blocks/divide/__link/divide__link.css);
+@import url(../blocks/divide/__img/divide__img.css);
+@import url(../blocks/divide/_type/_horizont-big/divide_type_horizont-big.css);
+@import url(../blocks/divide/_type/_horizont-big/divide_type_horizont-big.css);
+@import url(../blocks/divide/_type/_horizont-small/divide_type_horizont-small.css);
 
 @import url(../blocks/footer/footer.css);

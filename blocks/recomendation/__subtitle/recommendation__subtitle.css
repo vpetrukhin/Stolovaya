@@ -1,0 +1,8 @@
+.recommendation__subtitle {
+  max-width: 655px;
+  margin: 0 auto 65px;
+  font-family: PTSans Regular, sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  text-align: center;
+}

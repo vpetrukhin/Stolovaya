@@ -1,0 +1,9 @@
+.divide_type_vertical {
+  grid-area: vertical;
+  padding-top: 68px;
+  background-color: #ffffff;
+}
+
+.divide_type_vertical .divide__img {
+  bottom: -634px;
+}

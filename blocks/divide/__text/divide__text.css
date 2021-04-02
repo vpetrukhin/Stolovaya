@@ -1,0 +1,10 @@
+.divide__text {
+  max-width: 300px;
+  margin: 0;
+  margin-bottom: 20px;
+  font-family: PTSans Regular, sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  color: #777777;
+  text-align: center;
+}

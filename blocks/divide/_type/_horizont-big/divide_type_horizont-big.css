@@ -1,0 +1,25 @@
+.divide_type_horizont-big {
+  background-color: #232323;
+  grid-area: horBig;
+  align-items: flex-start;
+  padding-left: 246px;
+}
+
+.divide_type_horizont-big .divide__img {
+  width: 500px;
+  height: 430px;
+  left: -317px;
+}
+
+.divide_type_horizont-big .divide__text {
+  text-align: left;
+}
+
+.divide_type_horizont-big .divide__producer {
+  margin-top: 120px;
+}
+
+.divide_type_horizont-big>.divide__producer,
+.divide_type_horizont-big>.divide__title {
+  color: #ffffff;
+}

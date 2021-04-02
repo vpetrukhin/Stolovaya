@@ -1,0 +1,10 @@
+.recommendation__wrapper {
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 600px 780px;
+  grid-template-rows: 420px 315px;
+  grid-template-areas: "vertical horBig"
+    "vertical horSmall"
+  ;
+  gap: 10px;
+}

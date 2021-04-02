@@ -1,0 +1,18 @@
+.divide_type_horizont-small {
+  grid-area: horSmall;
+  background-color: #fff;
+  align-items: flex-start;
+  padding-left: 62px;
+}
+
+.divide_type_horizont-small .divide__img {
+  width: 390px;
+  width: 390px;
+  right: -97px;
+  bottom: -95px;
+  object-fit: contain;
+}
+
+.divide_type_horizont-small .divide__producer {
+  margin-top: 92px;
+}

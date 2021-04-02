@@ -1,0 +1,8 @@
+.recommendation__title {
+  margin: 0;
+  margin-bottom: 25px;
+  font-family: PTSans Regular, sans-serif;
+  font-size: 40px;
+  font-weight: 300;
+  text-align: center;
+}
