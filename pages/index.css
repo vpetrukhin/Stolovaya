@@ -126,5 +126,6 @@
 @import url(../blocks/divide/_type/_horizont-small/divide_type_horizont-small.css);
 
 @import url(../blocks/info/info.css);
+@import url(../blocks/info/__description/info__description.css);
 
 @import url(../blocks/footer/footer.css);
