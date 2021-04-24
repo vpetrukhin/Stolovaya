@@ -1,0 +1,15 @@
+.author {
+  background-color: #191919;
+}
+
+.author__wrapper {
+  width: 80%;
+  margin: 0 auto;
+  display: flex;
+}
+
+.author__logo {}
+
+.author__text {
+  margin: 0;
+}

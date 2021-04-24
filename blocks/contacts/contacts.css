@@ -1,0 +1,65 @@
+.contacts {
+  padding: 90px 0 80px 0;
+  background-color: #232323;
+}
+
+.contacts__wrapper {
+  width: 80%;
+  margin: 0 auto;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+
+.contacts__info {}
+
+.contacts__title {
+  margin: 0;
+  margin-bottom: 26px;
+  font-family: PTSans Regular, sans-serif;
+  font-size: 24px;
+  font-weight: 200;
+  color: #777777;
+}
+
+.contacts__list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.contacts__item:not(:last-child) {
+  margin-bottom: 10px;
+}
+
+.contacts__link {
+  font-family: PTSans Regular, sans-serif;
+  font-size: 16px;
+  font-weight: 200;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.contacts__furniture {}
+
+.contacts__offers {}
+
+.contacts__communications {
+  flex-basis: 187px;
+}
+
+.contacts__communications .contacts__item {
+  margin-bottom: 25px;
+}
+
+.contacts__communications .contacts__link {
+  display: block;
+}
+
+.contacts__text {
+  margin: 0;
+  font-family: PTSans Regular, sans-serif;
+  font-size: 16px;
+  font-weight: 200;
+  color: #ffffff;
+}
